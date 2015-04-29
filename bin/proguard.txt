@@ -1,0 +1,24 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.jack.ocas.CsoundBase { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.jack.ocas.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.jack.ocas.OptionsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.jack.ocas.instruments.Bowed { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.jack.ocas.instruments.Drone { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.jack.ocas.instruments.Moog { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.jack.ocas.instruments.Simple2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.jack.ocas.instruments.VariableFret { <init>(...); }
+

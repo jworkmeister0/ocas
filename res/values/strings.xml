@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OCAS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_dos">Dos</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="instructions">Toch up and down for pitch. Left and right for modulation</string>
+    <string name="dummy_button">Save!</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_drone">Drone</string>
+    <string name="title_activity_tuned">Tuned</string>
+    <string name="title_activity_variable_fret">VariableFret</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_natural_minor">NaturalMinor</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_harmonic_minor">HarmonicMinor</string>
+    <string name="title_activity_config">Config</string>
+    <string name="title_activity_options_fragment">OptionsFragment</string>
+    <string name="title_activity_options">OptionsActivity</string>
+
+    <string-array name="instrument_array">
+        <item>Simple Sine</item>
+        <item>Bowed</item>
+    </string-array>
+    <string-array name="fret_array">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="octave_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="root_note_array">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="scale_array">
+        <item>Chromatic</item>
+        <item>Major</item>
+        <item>Harmonic Minor</item>
+        <item>Natural Minor</item>
+        <item>Lydian Mode</item>
+        <item>Aeolian Mode</item>
+        <item>Dorian Mode</item>
+    </string-array>
+
+    <string name="title_activity_moog">Moog</string>
+    <string name="title_activity_simple2">Simple2</string>
+    <string name="title_activity_bowed">Bowed</string>
+    <string name="title_activity_not_mine">NotMine</string>
+
+</resources>
